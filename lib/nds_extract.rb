@@ -11,6 +11,7 @@ def directors_totals(source)
     director_index += 1
     # binding.pry
   end
+  binding.pry
   result
   # returns updated HASH with dir => total_grosses
 end
